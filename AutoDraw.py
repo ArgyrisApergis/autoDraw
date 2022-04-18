@@ -4,8 +4,9 @@ import cv2
 import pyautogui as pg
 import time
 
-paint_path = "C:/Users/Archie/AppData/Local/Microsoft/WindowsApps/Microsoft.Paint_8wekyb3d8bbwe/mspaint.exe"
-os.startfile(paint_path)
+# uncomment the lines below and give the paint path
+# paint_path = "C:/Users/Archie/..."
+# os.startfile(paint_path)
 
 # coordinates of where to start drawing (change if needed!)
 x_start = 300
